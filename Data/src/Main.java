@@ -16,5 +16,12 @@ public class Main {
 
         int data=add(1,2);
         System.out.println(data);
+        data();
+
     }
+    public static int data(){
+       return 50;
+
+    }
+
 }
