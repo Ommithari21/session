@@ -20,7 +20,7 @@ public class Main {
 
     }
     public static int data(){
-       return 50;
+       return 60;
 
     }
 
