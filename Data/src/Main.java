@@ -14,6 +14,7 @@ public class Main {
             System.out.println("i = " + i);
         }
 
-        add(1,2);
+        int data=add(1,2);
+        System.out.println(data);
     }
 }
